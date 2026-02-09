@@ -8,24 +8,23 @@ draft: false
 keywords:
   - handle
 ---
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi iStuff
+Musce libero fffefc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi iStuff
 
 {{< notice note >}}
-
 This is a simple note.
 {{</ notice >}}
 
 {{< notice tip >}}
-
 This is a simple tip.
 {{</ notice >}}
 
 {{< notice info >}}
-
 This is a simple info.
 {{</ notice >}}
 
 {{< tabs "code" >}}
+​
+
 {{< tab "python" >}}
 ```python
 print("Hello World!")
@@ -43,8 +42,6 @@ print("Hello World!")
 echo "Hello World!"
 ```
 {{< /tab >}}
-
-
 {{< /tabs >}}
 
 Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
